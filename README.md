@@ -1,6 +1,6 @@
 # Package-Delivery-System-design
+## Project1. E-R design and Relational Schema design
 > 2020 Spring Database Systems (CSE4110)
-> Project1. E-R design and Relational Schema design
 
 ### Goal 
 The goal of this project is to provide a realistic experience in the conceptual design, logical design and maintenance of a small relational database.
