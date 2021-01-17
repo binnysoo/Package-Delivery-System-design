@@ -5,7 +5,6 @@
 * MySQL connector(ODBC)
 * MySQL DBMS
 <br/>
-<br/>
 
 ## 📌 Project1. E-R design and Relational Schema design
 
@@ -26,7 +25,6 @@ The goal of this project is to provide a realistic experience in the conceptual 
   - A bill listing charges by type of service.
   - An itemize billing listing each individual shipment and the charges for it.
   Customers like their bills to be readable. While the client will accept a relational table coming from Oracle as the bill, it would be “nice” to have a good-looking bill.
-<br/>
 <br/>
 <br/>
 
