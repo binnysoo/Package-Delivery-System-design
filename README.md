@@ -4,9 +4,9 @@
 * Visual Studio 2019
 * MySQL connector(ODBC)
 * MySQL DBMS
-
-
-📌 Project1. E-R design and Relational Schema design
+  
+  
+## 📌 Project1. E-R design and Relational Schema design
 
 ### Goal 
 The goal of this project is to provide a realistic experience in the conceptual design, logical design and maintenance of a small relational database.
@@ -25,10 +25,10 @@ The goal of this project is to provide a realistic experience in the conceptual 
   - A bill listing charges by type of service.
   - An itemize billing listing each individual shipment and the charges for it.
   Customers like their bills to be readable. While the client will accept a relational table coming from Oracle as the bill, it would be “nice” to have a good-looking bill.
-
-
-
-📌 Project2. Normalization and Query Processing
+  
+  
+  
+## 📌 Project2. Normalization and Query Processing
 
 ### Goal
 The goal of this project is to provide a realistic experience in the physical design, query processing implementation and maintenance of a small relational database you made in Project 1.
