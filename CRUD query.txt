@@ -1,0 +1,7 @@
+drop table timetable
+drop table history
+drop table contract
+drop table bill
+drop table package
+drop table destination
+drop table customer
